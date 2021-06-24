@@ -13,6 +13,6 @@ My Practice of Reinforcement Learning
 - torch ^1.9.0 `pip install torch`
 
 
-วิธีลง library ต่างใน pythonท ที่เกี่ยวกับ OpenAI Gym สามารถดูได้ที [roboticslab-uc3m](https://roboticslab-uc3m.github.io/installation-guides/install-openai-gym.html)
+วิธีลง library ต่างใน python ที่เกี่ยวกับ OpenAI Gym สามารถดูได้ที [roboticslab-uc3m](https://roboticslab-uc3m.github.io/installation-guides/install-openai-gym.html)
 
 Credit : [Reinforcement Learning Course - Full Machine Learning Tutorial](https://www.youtube.com/watch?v=ELE2_Mftqoc&t=2s)
